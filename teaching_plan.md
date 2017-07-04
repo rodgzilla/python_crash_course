@@ -123,3 +123,16 @@ and optimized way to make computations with arrays of data.
 - Reduce
 - Accumulate
 
+### Broadcasting
+
+- Concept
+- Examples
+
+### Masking and Boolean Logic
+
+- Masking concept
+- Boolean operation on arrays
+
+### Fancy indexing 
+
+- Concept of using arrays instead of indices.
