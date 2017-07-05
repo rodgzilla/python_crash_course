@@ -179,6 +179,7 @@ Python. Its role is complementary to NumPy.
 - Generalization to unknown data points
 - Model hyperparameters
 - Model validation
+- Cross validation for hyperparameters tuning
 
 ### Supervised models
 
@@ -192,12 +193,16 @@ Python. Its role is complementary to NumPy.
 #### Naive Bayes
 
 - Bayes theorem.
+- Concept of generative classification
 - Gaussian Naive Bayes
 - Multinomial Naive Bayes
 - When to use Naive Bayes
 
 #### Support Vector Machines
 
+- Concept of discriminative classification
+- Margin maximization
+- Kernel SVM
 - When to use Support Vector Machines
 
 #### Decision trees and Random Forests
