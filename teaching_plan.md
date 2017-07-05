@@ -133,6 +133,73 @@ and optimized way to make computations with arrays of data.
 - Masking concept
 - Boolean operation on arrays
 
-### Fancy indexing 
+### Fancy indexing
 
 - Concept of using arrays instead of indices.
+
+## Pandas
+
+Pandas is the other main library to manipulate dataset with
+Python. Its role is complementary to NumPy.
+
+### Pandas Objects
+
+- Creation
+- Importing from file
+
+### Indexing
+
+- Custom indices
+- Slicing using custom indices
+- Masking
+- Fancy indexing
+
+### Aggregation and Grouping
+
+- Various kind of aggregation (count, mean, std, sum, ...)
+- Groupby syntax
+- Filtering
+- Transforming
+
+## Visualization
+
+- Line plots
+- Scatter plots
+- Histograms
+
+# Machine learning
+
+## What is machine learning?
+
+### Basic concepts
+
+- Prediction from data
+- Supervised and unsupervised learning
+- Classification and regression tasks
+- Generalization to unknown data points
+- Model hyperparameters
+- Model validation
+
+### Supervised models
+
+#### Linear Regression
+
+#### Naive Bayes
+
+#### Support Vector Machines
+
+#### Decision trees and Random Forests
+
+### Unsupervised models
+
+#### Principal component analysis
+
+#### Manifold learning
+
+#### k-Means clustering
+
+#### Gaussian Mixture Models
+
+#### Kernel Density Estimation
+
+
