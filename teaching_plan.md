@@ -184,25 +184,47 @@ Python. Its role is complementary to NumPy.
 
 #### Linear Regression
 
+- Concept of linear regression
+- Basis function regression (polynomial, Gaussian)
+- Regularization (Ridge, Lasso)
+- When to use linear regression
+
 #### Naive Bayes
 
 - Bayes theorem.
+- Gaussian Naive Bayes
+- Multinomial Naive Bayes
+- When to use Naive Bayes
 
 #### Support Vector Machines
 
+- When to use Support Vector Machines
+
 #### Decision trees and Random Forests
+
+- When to use Random Forests
 
 ### Unsupervised models
 
 #### Principal component analysis
 
+- When to use Principal component analysis
+
 #### Manifold learning
+
+- When to use Manifold learning
 
 #### k-Means clustering
 
-#### Gaussian Mixture Models
+- When to use k-means clustering
+
+#### Gaussian Mixture Model
+
+- When to use Gaussian Mixture models
 
 #### Kernel Density Estimation
+
+- When to use Kernel Density Estimation
 
 ### Feature engineering
 
