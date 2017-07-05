@@ -161,7 +161,7 @@ Python. Its role is complementary to NumPy.
 - Filtering
 - Transforming
 
-## Visualization
+## Matplotlib visualization
 
 - Line plots
 - Scatter plots
@@ -186,6 +186,8 @@ Python. Its role is complementary to NumPy.
 
 #### Naive Bayes
 
+- Bayes theorem.
+
 #### Support Vector Machines
 
 #### Decision trees and Random Forests
@@ -202,4 +204,31 @@ Python. Its role is complementary to NumPy.
 
 #### Kernel Density Estimation
 
+### Feature engineering
 
+#### Categorical variables
+
+- One hot representation
+- Label encoding
+
+#### Text variables
+
+- Bag of words
+- Word embeddings
+- Text embeddings
+
+#### Missing data
+
+- Different stategies to handle missing data
+  (drop, fill with average, fill with most
+  common, ...)
+
+# Big data software
+
+## What is big data?
+
+## MapReduce
+
+## Hadoop
+
+## Apache Spark
