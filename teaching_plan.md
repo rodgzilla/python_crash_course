@@ -207,12 +207,16 @@ Python. Its role is complementary to NumPy.
 
 #### Decision trees and Random Forests
 
+- Decision trees
+- Concept of ensemble models
 - When to use Random Forests
 
 ### Unsupervised models
 
 #### Principal component analysis
 
+- Concept of dimensionality reduction
+- Principal axis of the data
 - When to use Principal component analysis
 
 #### Manifold learning
