@@ -221,19 +221,29 @@ Python. Its role is complementary to NumPy.
 
 #### Manifold learning
 
+- Concept of non-linear manifolds
+- Multidimensional scaling
+- Locally linear scaling
+- Isometric mapping
 - When to use Manifold learning
 
 #### k-Means clustering
 
+- Motivation of clustering algorithms
+- Spectral clustering
 - When to use k-means clustering
 
 #### Gaussian Mixture Model
 
+- Limitations of PCA
+- Density estimation model
 - When to use Gaussian Mixture models
 
 #### Kernel Density Estimation
 
 - When to use Kernel Density Estimation
+
+### Machine learning
 
 ### Feature engineering
 
