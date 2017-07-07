@@ -264,19 +264,45 @@ Python. Its role is complementary to NumPy.
 
 #### Kernel Density Estimation
 
-
+- Using Kernel Density Estimation to graphically represent a
+  distribution of points.
 - When to use Kernel Density Estimation
 
 ### Hyperparameters tuning
 
 - Hyper parameters search methods (grid search, random search, ...)
 
-# Big data software
+# Getting the data with Python
+
+## Data mining
+
+## Web scraping
+
+- BeautifulSoup
+
+
+## Database connection
+
+- Why do we use databases?
+- Database connection with Python
+
+# Big data
 
 ## What is big data?
 
-## MapReduce
+- Relational databases and scalability
+- Distributed file systems
 
-## Hadoop
+## Hadoop with Python
 
-## Apache Spark
+- Advantages of using commodity hardware
+- Hadoop distributed file system (HDFS, NameNode, DataNode)
+- Command line interface
+- MapReduce in Python
+- Pig and Python
+- Hadoop in Python
+
+## Spark with Python
+
+- Spark concept
+- Resilient Distributed Datasets (RDDs)
