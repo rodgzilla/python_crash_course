@@ -11,7 +11,7 @@ nombreuses applications comme par exemple:
 
 Le déroulement du module sera le suivant :
 
-0. Syntaxe de base
-1. Programmation impérative
-2. Programmation objet
-3. Présentation de plusieurs librairies populaires
+1. Syntaxe de base
+2. Programmation impérative
+3. Programmation objet
+4. Présentation de plusieurs librairies populaires
