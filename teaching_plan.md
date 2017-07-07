@@ -173,13 +173,36 @@ Python. Its role is complementary to NumPy.
 
 ### Basic concepts
 
+#### Idea of using machine learning to solve problems
+
 - Prediction from data
 - Supervised and unsupervised learning
 - Classification and regression tasks
 - Generalization to unknown data points
-- Model hyperparameters
-- Model validation
-- Cross validation for hyperparameters tuning
+
+#### Judging how a model is doing
+
+- Model cross-validation
+- K-fold methods
+
+### Feature engineering
+
+#### Categorical variables
+
+- One hot representation
+- Label encoding
+
+#### Text variables
+
+- Bag of words
+- Word embeddings
+- Text embeddings
+
+#### Missing data
+
+- Different stategies to handle missing data
+  (drop, fill with average, fill with most
+  common, ...)
 
 ### Supervised models
 
@@ -241,28 +264,12 @@ Python. Its role is complementary to NumPy.
 
 #### Kernel Density Estimation
 
+
 - When to use Kernel Density Estimation
 
-### Machine learning
+### Hyperparameters tuning
 
-### Feature engineering
-
-#### Categorical variables
-
-- One hot representation
-- Label encoding
-
-#### Text variables
-
-- Bag of words
-- Word embeddings
-- Text embeddings
-
-#### Missing data
-
-- Different stategies to handle missing data
-  (drop, fill with average, fill with most
-  common, ...)
+- Hyper parameters search methods (grid search, random search, ...)
 
 # Big data software
 
