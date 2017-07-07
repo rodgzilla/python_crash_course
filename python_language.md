@@ -12,6 +12,6 @@ nombreuses applications comme par exemple:
 Le déroulement du module sera le suivant :
 
 0. Syntaxe de base
--  Programmation impérative
--  Programmation objet
--  Présentation de plusieurs librairies populaires
+1. Programmation impérative
+2. Programmation objet
+3. Présentation de plusieurs librairies populaires
