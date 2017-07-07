@@ -8,7 +8,7 @@ deux logiciels dont le but est de faciliter le stockage et les calculs
 mettant
 
 
-Le déroulement du module sera le suivant:
+Le déroulement du module sera le suivant :
 
 1. Introduction aux concepts de big Data
 2. Programmation sous forme MapReduce

@@ -298,6 +298,7 @@ Python. Its role is complementary to NumPy.
 - Advantages of using commodity hardware
 - Hadoop distributed file system (HDFS, NameNode, DataNode)
 - Command line interface
+- mrjob as a Hadoop streaming wrapper
 - MapReduce in Python
 - Pig and Python
 - Hadoop in Python
