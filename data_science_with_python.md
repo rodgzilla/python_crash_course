@@ -8,7 +8,7 @@ décision.
 
 Le déroulement du module sera le suivant :
 
-0. Introduction au language Python
+1. Introduction au language Python
 - Manipulation de données en Python.
 - Utilisation d'algorithmes de machine learning (linear regression,
   Support Vector Machine, Random forests, k-means clustering...) sur
