@@ -9,10 +9,10 @@ que les images, la vidéo, le texte ainsi que les données structurées.
 Le déroulement du module sera le suivant.
 
 1. Présentation des multi-layer perceptrons
-- Algorithmes d'entrainements, learning rate, ...
-- Concept de convolution, couches de convolutions
-- Utilisation de réseaux pré-entrainés
-- Adaptation de réseaux pré-entrainés (finetuning)
-- Applications à la classification d'image
-- Applications à la NLP
-- Applications aux systèmes de recommendation
+2. Algorithmes d'entrainements, learning rate, ...
+3. Concept de convolution, couches de convolutions
+4. Utilisation de réseaux pré-entrainés
+5. Adaptation de réseaux pré-entrainés (finetuning)
+6. Applications à la classification d'image
+7. Applications à la NLP
+8. Applications aux systèmes de recommendation
