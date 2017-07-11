@@ -13,6 +13,6 @@ Le déroulement du module sera le suivant.
 - Concept de convolution, couches de convolutions
 - Utilisation de réseaux pré-entrainés
 - Adaptation de réseaux pré-entrainés (finetuning)
-- Deep learning pour la classification d'image
-- Deep learning pour la NLP
-- Deep learning pour les systèmes de recommendation
+- Applications à la classification d'image
+- Applications à la NLP
+- Applications aux systèmes de recommendation
