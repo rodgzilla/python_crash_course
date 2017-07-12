@@ -14,11 +14,11 @@
 - Concept of layers
 - Input, hidden and output layers
 
-## Logical gate neural networks
+## Example networks: logical gate
 
 - AND gate
 - OR gate
-- XOR gate
+- (maybe) XOR gate
 
 # Training algorithms
 
@@ -31,12 +31,12 @@
 ## Learning rate
 
 - Concept of learning rate
-- Learning rate tuning via cyclical learning rate
+- Automatic learning rate tuning via cyclical learning rate
 
 ## Convolution layers
 
 - Definition of convolution
-- Examples of convolution
+- Examples of convolution (Sobel operators, ...)
 - Convolutions are a way to focus the network computations on spatial
   informations
 - Explanation of how convolution kernels are modified by gradient
@@ -67,7 +67,7 @@
 - Image classification
 - Object detection
 - Image segmentation
-- Image generation (GAN concept + quick MNIST example)
+- (Maybe) Image generation (GAN concept + quick MNIST example)
 
 ## Natural language processing
 
