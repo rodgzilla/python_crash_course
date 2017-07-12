@@ -67,6 +67,7 @@
 - Image classification
 - Object detection
 - Image segmentation
+- Image compression via convolutional autoencoders
 - (Maybe) Image generation (GAN concept + quick MNIST example)
 
 ## Natural language processing
