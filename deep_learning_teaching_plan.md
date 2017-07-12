@@ -38,7 +38,7 @@
 ### Convolution layers
 
 - Definition of convolution
-- Example of convolution
+- Examples of convolution
 - Convolutions are a way to focus the network computations on spatial
   informations
 - Explanation of how convolution kernels are modified by gradient
