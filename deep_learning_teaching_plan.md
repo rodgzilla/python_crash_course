@@ -80,3 +80,7 @@
 
 - Transfering the concept of word embeddings to users and products
 - Building a recommender system on the MovieLens dataset.
+
+## Time series
+
+- Introduction on time series workflow with neural networks.
