@@ -84,4 +84,4 @@
 
 ## Time series
 
-- Introduction on time series workflow with neural networks.
+- Introduction of time series workflow with neural networks.
