@@ -9,12 +9,12 @@ décision.
 Le déroulement du module sera le suivant :
 
 1. Introduction au language Python
-- Manipulation de données en Python.
-- Utilisation d'algorithmes de machine learning (linear regression,
-  Support Vector Machine, Random forests, k-means clustering...) sur
-  scikit-learn.
-- Visualisation de données avec matplotlib.
-- Introduction au data mining.
-- Présentation de solutions big data (Hadoop, MapReduce).
-- Ouverture sur d'autres algorithmes (système de recommendation, deep
-  learning)
+2. Manipulation de données en Python.
+3. Utilisation d'algorithmes de machine learning (linear regression,
+   Support Vector Machine, Random forests, k-means clustering...) sur
+   Scikit-Learn.
+4. Visualisation de données avec matplotlib.
+5. Introduction au data mining.
+6. Présentation de solutions big data (Hadoop, MapReduce).
+7. Ouverture sur d'autres algorithmes (système de recommendation, deep
+   learning)
