@@ -16,6 +16,14 @@ the PolynomialFeatures class which creates a new features for each
 integer exponent value of the data. This can be useful to increase the
 complexity of the model and make it work with more complicated data.
 
+The two main regularized versions of Linear Regression are Ridge and
+Lasso. These two variants penalize complex models in different
+way. Ridge regression penalizes big values in the coefficients of the
+model and Lasso allow to select a subset of variables. The subtle
+differences between these two algorithms and other variants like
+Elastic Net goes beyond the scope of this course, more details can be
+found online.
+
 ## Naive Bayes
 
 The Naive Bayes models are extremely fast and simple classification
@@ -51,6 +59,32 @@ following situations:
 
 ## Support Vector Machines
 
+Support vector machines (SVMs) are a particularly powerful and
+flexible class of supervised algorithms for both classification and
+regression for the following reasons:
+
+- Their dependence on relatively few support vectors means that they
+  are very compact models, and take up very little memory.
+- Once the model is trained, the prediction phase is very fast.
+- Because they are affected only by points near the margin, they work
+  well with high-dimensional data - even data with more dimensions
+  than samples, which is a challenging regime for other algorithms.
+- Their integration with kernel methods makes them very versatile,
+  able to adapt to many types of data.
+
+They have the following disadvantages as well:
+
+- The scaling with the number of samples is O(n^2) which can be
+  prohibitive for large numbers of training samples.
+- The results are strongly dependent on a suitable choice for the
+  softening parameter C. This must be chosen carefully via
+  cross-validation, which can be expensive as datasets grow in size.
+- The results do not have a direct probabilistic interpretation.
+
+The SVMs are quite tunning intensive. For this reason, it is often a
+good idea to use them once simpler and faster models have already been
+tried. Using carefully tuned parameters and enough training data, SVMs
+can lead to excellent results.
 
 ## Decision trees and Random Forests
 
