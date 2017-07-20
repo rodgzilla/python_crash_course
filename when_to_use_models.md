@@ -1,7 +1,20 @@
+All the following descriptions are inspired by the "Python Data
+Science Handbook" by Jake Vanderplas.
+
 # Supervised models
 
 ## Linear Regression
 
+The Linear Regression models are the most basic model used for
+regression tasks. They are often used to build a baseline in order to
+evaluate more complicated model performances. Such models are popular
+because they can be fit very quickly, and are very interpretable.
+
+These models can be extended using a basis function that will derive
+more features from the dataset. An example of such basis function is
+the PolynomialFeatures class which creates a new features for each
+integer exponent value of the data. This can be useful to increase the
+complexity of the model and make it work with more complicated data.
 
 ## Naive Bayes
 
