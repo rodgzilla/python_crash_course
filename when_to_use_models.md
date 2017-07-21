@@ -134,6 +134,16 @@ problem might be more successful.
 
 ## Manifold learning
 
+While PCA is flexible, fast, and easily interpretable, it does not
+perform so well when there are nonlinear relationships within the
+data. Manifold Learning is another kind of model that tries to tackle
+this problem. There are multiple variant of this algorithm relative to
+the "distance mesure" that the model tries to preserve.
+
+This method have multiple downsides relative to PCA such as noise
+sensibility or missing data handling. In practice, it is rarely used
+for more than producing a visualization of high-dimensional data.
+
 ## k-Means clustering
 
 ## Gaussian Mixture Model
