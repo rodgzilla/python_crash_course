@@ -118,7 +118,19 @@ extraction and engineering and clustering.
 
 ## Principal component analysis
 
+Principal Component Analysis (PCA) is an algorithm used for
+dimensionality reduction. The idea of this algorithm is to build a new
+space of lower dimension and project the data points in it in a way
+that preserves most of the variance.
 
+PCA can be used for visualization, noise filtering and feature
+engineering. A PCA visualization is often a good first step when
+working with high dimensional data.
+
+A downside of PCA is that it tends to be highly affected by outliers
+in the data. It could be a reason of why PCA is behaving poorly on a
+dataset. In this case, other PCA variants that try to mitigate this
+problem might be more successful.
 
 ## Manifold learning
 
