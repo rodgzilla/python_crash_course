@@ -1,7 +1,12 @@
-All the following descriptions are inspired by the "Python Data
-Science Handbook" by Jake Vanderplas.
+All the following descriptions are heavily inspired by the "Python
+Data Science Handbook" by Jake Vanderplas.
 
 # Supervised models
+
+Supervised learning methods are used to approximate a function for
+which we already know some evaluation results. The function could
+classify object into classes (classification tasks) or predict a
+continuous value (regression tasks).
 
 ## Linear Regression
 
@@ -107,7 +112,12 @@ be the best choice.
 
 # Unsupervised models
 
+Unsupervised learning is mostly used to explore the data. Its main
+applications are dimensionality reduction, noise filtering, feature
+extraction and engineering and clustering.
+
 ## Principal component analysis
+
 
 
 ## Manifold learning
