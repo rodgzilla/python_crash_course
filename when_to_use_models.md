@@ -153,9 +153,22 @@ the clusters will have a linear boundaries. This limitation can be
 softened using a kernelized version of k-Means, Spectral Clustering.
 
 The main limitation of this model is that it is slow for big number of
-samples.
+samples. Another problem with k-Means is that the clusters always have
+a circular shape, which may not always be suitable for the problem. If
+k-Means does not give acceptable results on the data, a Gaussian
+Mixture Model might be preferable.
 
 ## Gaussian Mixture Model
 
+The Gaussian Mixture Model (GMM) is also a clustering model. It allows
+for probabilistic cluster assignment for each point and ellipse shaped
+clusters. It is a more powerful clustering algorithm that should be
+used when k-Means is not enough or when a probalistic prediction is
+needed.
+
+The GMM can also be used to sample probable new data points once the
+model has been fit with a dataset.
+
 ## Kernel Density Estimation
+
 
