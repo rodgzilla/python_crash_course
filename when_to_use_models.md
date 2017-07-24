@@ -146,6 +146,15 @@ for more than producing a visualization of high-dimensional data.
 
 ## k-Means clustering
 
+k-Means algorithms are another way to look at data. Instead of
+reducing the number of dimensions of the data, these models group data
+into clusters. This algorithm is really simple in that it assumes that
+the clusters will have a linear boundaries. This limitation can be
+softened using a kernelized version of k-Means, Spectral Clustering.
+
+The main limitation of this model is that it is slow for big number of
+samples.
+
 ## Gaussian Mixture Model
 
 ## Kernel Density Estimation
