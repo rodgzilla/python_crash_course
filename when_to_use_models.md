@@ -171,4 +171,6 @@ model has been fit with a dataset.
 
 ## Kernel Density Estimation
 
-
+Kernel Density Estimation (KDE) models take a dataset and try to
+produce an estimate of the probability distribution which that data is
+drawn.
