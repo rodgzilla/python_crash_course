@@ -1,3 +1,27 @@
+# Maths for machine learning
+
+## Linear Algebra
+
+- Vector
+- Matrices
+
+## Statistics
+
+- Tendencies
+- Correlations
+- Simpson's Paradox
+- Correlation and Causation
+
+## Probability
+
+- Dependence and Independence
+- Conditional probabilities
+- Bayes's Theorem
+- Random Variables
+- Distributions
+- Testing hypothesis
+- Confidence Intervals
+
 # Introduction to Python
 
 This section starts with an introduction to the Python language and
@@ -279,7 +303,6 @@ Python. Its role is complementary to NumPy.
 ## Web scraping
 
 - BeautifulSoup
-
 
 ## Database connection
 
