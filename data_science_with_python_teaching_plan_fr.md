@@ -201,16 +201,16 @@ données avec Python. Son rôle est complémentaire à celui de Numpy.
 
 # Machine learning
 
-## What is machine learning?
+## Qu'est-ce que le machine learning?
 
-### Basic concepts
+### Concepts de base
 
-#### Idea of using machine learning to solve problems
+#### Idée d'utiliser le machine learning pour résoudre des problèmes
 
-- Prediction from data
-- Supervised and unsupervised learning
-- Classification and regression tasks
-- Generalization to unknown data points
+- Prédictions à partir de données
+- Tâches d'apprentissage supervisées et non supervisées
+- Tâches de classification et de régression
+- Généralisation des modèles à de nouveaux points de données.
 
 #### Judging how a model is doing
 
