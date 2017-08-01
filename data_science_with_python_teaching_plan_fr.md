@@ -270,75 +270,76 @@ données avec Python. Son rôle est complémentaire à celui de Numpy.
 
 #### Principal component analysis
 
-- Concept of dimensionality reduction
-- Principal axis of the data
-- When to use Principal component analysis
+- Concept de réduction de dimensionalité
+- Axes principaux des données
+- Quand utiliser la PCA
 
 #### Manifold learning
 
-- Concept of non-linear manifolds
+- Concept de variété non linéaire
 - Multidimensional scaling
 - Locally linear scaling
 - Isometric mapping
-- When to use Manifold learning
+- Quand utiliser le Manifold learning
 
 #### k-Means clustering
 
-- Motivation of clustering algorithms
+- Motivation des algorithmes de clustering
 - Spectral clustering
-- When to use k-means clustering
+- Quand utiliser le k-means clustering
 
 #### Gaussian Mixture Model
 
-- Limitations of PCA
-- Density estimation model
-- When to use Gaussian Mixture models
+- Limitations de PCA
+- Modèle d'estimation de densité density estimation
+- Quand utiliser les Gaussian Mixture models
 
 #### Kernel Density Estimation
 
-- Using Kernel Density Estimation to graphically represent a
-  distribution of points.
-- When to use Kernel Density Estimation
+- Utiliser KDE pour représenter graphiquement une distribution de
+  points
+- Quand utiliser le KDE
 
 ### Hyperparameters tuning
 
-- Hyper parameters search methods (grid search, random search, ...)
+- Méthodes de recherche d'hyper paramètres (grid search, random
+  search, ...)
 
-# Getting the data with Python
+# Obtenir les donnees en Python
 
 ## Data mining
 
 ## Web scraping
 
-- BeautifulSoup
+- Parsing HTML avec BeautifulSoup
 
-## Database connection
+## Connexion à une base de données
 
-- Why do we use databases?
-- Database connection with Python
+- Pourquoi utiliser une base de données ?
+- Se connecter à une base de données avec Python
 
 # Big data
 
-## What is big data?
+## Qu'est-ce que la big data?
 
-- Relational databases and scalability
-- Distributed file systems
+- Bases de données relationnelles et scalability
+- Systèmes de fichier distribués
 
-## Hadoop with Python
+## Hadoop avec Python
 
-- Advantages of using commodity hardware
-- Hadoop distributed file system (HDFS, NameNode, DataNode)
-- Command line interface
-- mrjob as a Hadoop streaming wrapper
-- MapReduce in Python
-- Pig and Python
-- Hadoop in Python
+- Avantages à utiliser du hardware classique
+- Système de fichier distribué Hadoop (HDFS, NameNode, DataNode)
+- Interface en ligne de commande
+- Utilisation de mrjob comme wrapper Hadoop
+- MapReduce en Python
+- Pig et Python
+- Hadoop en Python
 
-## Spark with Python
+## Spark avec Python
 
-- Spark concept
+- Concept de Spark
 - Resilient Distributed Datasets (RDDs)
 - Transformations (map, filter, join, ...)
 - Actions (reduce, count, first, ...)
-- Quick presentation of Spark Streaming and GraphX
+- Présentation rapide de Spark Streaming et GraphX
 
