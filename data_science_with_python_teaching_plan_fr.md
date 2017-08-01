@@ -212,61 +212,61 @@ données avec Python. Son rôle est complémentaire à celui de Numpy.
 - Tâches de classification et de régression
 - Généralisation des modèles à de nouveaux points de données.
 
-#### Judging how a model is doing
+#### Juger les performances d'un modèle
 
-- Model cross-validation
-- K-fold methods
+- Validation croisée
+- Méthode k-fold
 
 ### Feature engineering
 
-#### Categorical variables
+#### Variables catégoriques
 
-- One hot representation
-- Label encoding
+- Représentation en vecteurs one-hot
+- Encodage de valeurs
 
-#### Text variables
+#### Variables textuelles
 
-- Bag of words
+- Représentation bag of words
 - Word embeddings
 - Text embeddings
 
-#### Missing data
+#### Données manquantes
 
-- Different stategies to handle missing data
-  (drop, fill with average, fill with most
-  common, ...)
+- Différentes stratégies de gestion des données manquantes
+  (suppression, remplacement par la moyenne ou la valeur la plus
+  commune, ...)
 
-### Supervised models
+### Modèles supervisés
 
-#### Linear Regression
+#### Régression linéaire
 
-- Concept of linear regression
-- Basis function regression (polynomial, Gaussian)
-- Regularization (Ridge, Lasso)
-- When to use linear regression
+- Concept de régression linéaire
+- Régression avec fonction de base (polynomiale, Gaussienne)
+- Régularisation (Ridge, Lasso)
+- Quand utiliser la régression linéaire
 
 #### Naive Bayes
 
-- Bayes theorem.
-- Concept of generative classification
-- Gaussian Naive Bayes
-- Multinomial Naive Bayes
-- When to use Naive Bayes
+- Rappel du théorème de Bayes
+- Concept de classification générative
+- Naive Bayes Gaussien
+- Naive Bayes Multinomial
+- Quand utiliser Naive Bayes
 
 #### Support Vector Machines
 
-- Concept of discriminative classification
-- Margin maximization
-- Kernel SVM
-- When to use Support Vector Machines
+- Concept de classification discriminative
+- Maximisation de la marge
+- SVM avec kernel
+- Quand utiliser les Support Vector Machines
 
-#### Decision trees and Random Forests
+#### Decision trees et Random Forests
 
-- Decision trees
-- Concept of ensemble models
-- When to use Random Forests
+- Decision tree
+- Concept d'ensemble de model
+- Quand utiliser Random Forest
 
-### Unsupervised models
+### Modèles non-supervisés
 
 #### Principal component analysis
 
