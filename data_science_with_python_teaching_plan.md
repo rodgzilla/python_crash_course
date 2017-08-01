@@ -1,5 +1,7 @@
 # Maths for machine learning
 
+This section introduces the mathematic concepts used in Data Science.
+
 ## Linear Algebra
 
 - Vector
@@ -330,3 +332,6 @@ Python. Its role is complementary to NumPy.
 
 - Spark concept
 - Resilient Distributed Datasets (RDDs)
+- Transformations (map, filter, join, ...)
+- Actions (reduce, count, first, ...)
+- Quick presentation of Spark Streaming and GraphX
