@@ -5,7 +5,7 @@ en Data Science.
 
 ## Algèbre linéare
 
-- Vecteur
+- Vecteurs
 - Matrices
 
 ## Statistiques
@@ -13,16 +13,16 @@ en Data Science.
 - Tendances
 - Corrélations
 - Paradoxe de Simpson
-- Corrélation and Causalité
+- Corrélation et Causalité
 
-## Probability
+## Probabilités
 
-- Dépendence and Indépendence
+- Dépendance et Indépendance
 - Probabilités conditionnelles
 - Théorème de Bayes
 - Variables aléatoires
 - Distributions
-- Test d'hypothèse
+- Tests d'hypothèse
 - Intervalle de confiance
 
 # Introduction à Python
@@ -44,7 +44,7 @@ présente ensuite les principales librairies utilisées en data science.
 #### Listes
 
 - Définition
-- Syntaxe de liste vidé
+- Syntaxe de liste vide
 - Indéxation des éléments
 - Indéxation négative
 - Ajout d'éléments
@@ -104,14 +104,14 @@ présente ensuite les principales librairies utilisées en data science.
 Numpy est un outil essentiel pour la manipulation de données sous
 forme matricielle.
 
-### Bases des NumPy array
+### Bases des arrays NumPy
 
-#### Attributs des array
+#### Attributs des arrays
 
 - Nombre de dimension
 - Taille de chaque dimension
 - Taille total d'un array
-- dtype
+- Dtype
 
 #### Indéxation
 
@@ -140,10 +140,9 @@ forme matricielle.
 ### Fonctions universelles
 
 La principale raison de l'efficacité de Numpy est qu'il fournit des
-façons simples et optimisées de faire des calculs sur des matrices de
-données.
+façons simples et optimisées de faire des calculs sur des matrices.
 
-#### Arithmétique sur des arrays
+#### Arithmétique sur les arrays
 
 - Les opérations arithmétique basiques sont appliquées à tous les
   éléments de l'array
@@ -189,7 +188,7 @@ données avec Python. Son rôle est complémentaire à celui de Numpy.
 ### Aggrégation et Grouping
 
 - Plusieurs types d'aggrégation (count, mean, std, sum, ...)
-- Syntaxe du Groupby
+- Syntaxe du GroupBy
 - Filtrage
 - Transformation
 
@@ -258,7 +257,7 @@ données avec Python. Son rôle est complémentaire à celui de Numpy.
 - Concept de classification discriminative
 - Maximisation de la marge
 - SVM avec kernel
-- Quand utiliser les Support Vector Machines
+- Quand utiliser les SVMs
 
 #### Decision trees et Random Forests
 
@@ -320,9 +319,9 @@ données avec Python. Son rôle est complémentaire à celui de Numpy.
 
 # Big data
 
-## Qu'est-ce que la big data?
+## Qu'est-ce que le big data?
 
-- Bases de données relationnelles et scalability
+- Bases de données relationnelles et passage à l'échelle
 - Systèmes de fichier distribués
 
 ## Hadoop avec Python
